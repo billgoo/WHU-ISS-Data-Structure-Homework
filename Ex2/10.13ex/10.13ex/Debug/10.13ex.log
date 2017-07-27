@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/10/27 14:23:37。
+     1>项目“D:\VSproject\10.13ex\10.13ex\10.13ex.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt mulpoly.cpp
+         mulpoly.cpp
+       Link:
+         D:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSproject\10.13ex\Debug\10.13ex.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\VSproject\10.13ex\Debug\10.13ex.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSproject\10.13ex\Debug\10.13ex.lib" /MACHINE:X86 Debug\mulpoly.obj
+         10.13ex.vcxproj -> D:\VSproject\10.13ex\Debug\10.13ex.exe
+     1>已完成生成项目“D:\VSproject\10.13ex\10.13ex\10.13ex.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.92
